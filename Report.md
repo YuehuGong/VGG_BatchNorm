@@ -31,7 +31,7 @@ By combining these techniques, my model achieves better generalization, faster c
 | VGG_BatchNorm + SGD            | SGD optimizer                    | 75.53%       |
 
 - /
-- /
+
 
 ## 2. batch normalization
 From the comparison of loss landscapes of VGG-A with and without Batch Normalization, we can observe that:
